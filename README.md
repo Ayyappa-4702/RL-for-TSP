@@ -11,11 +11,10 @@ This project implements solutions to the Traveling Salesman Problem (TSP) using 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-  - [Q-Learning](#q-learning)
-  - [Policy Gradient](#policy-gradient)
+  - [play-around](#play-around)
+      -[Q-Learning Parameters](#Q-Learning Parameters)
+      -[Policy Gradient Parameters](#Policy Gradient Parameters)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -34,3 +33,31 @@ This project implements solutions to the Traveling Salesman Problem (TSP) using 
    ```bash
    git clone https://github.com/your-username/traveling-salesman.git
    cd traveling-salesman
+
+## Usage
+
+Run the file by  using the folllowing command
+
+```
+python QL_PG.py
+```
+
+### play-around
+
+Change the parameters in the script (num_cities, num_episodes, epsilon, alpha, gamma) and observe the graph.
+
+#### Q-Learning Parameters
+
+num_cities, num_episodes, epsilon, alpha, gamma 
+
+#### Policay Gradient Parameters
+
+num_cities, input_size, hidden_size, output_size, learning_rate, num_episodes
+
+##Results
+
+View the results of the Q-Learning algorithm in the first plot of the losses over episodes. The second plot displays the training loss over episodes for the Policy Gradient approach.
+
+View the results for loss over episdoes for Q-Learning and Policy Gradient Respectively.
+
+
