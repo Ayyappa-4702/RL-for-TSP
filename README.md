@@ -40,7 +40,7 @@ Run the file by  using the folllowing command
 
   
 
-###play-around
+### play-around
 
 Change the parameters in the script (num_cities, num_episodes, epsilon, alpha, gamma) and observe the graph.
 
