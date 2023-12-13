@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project implements solutions to the Traveling Salesman Problem (TSP) using both Q-Learning and a Policy Gradient approach with a neural network. The Q-Learning algorithm is based on tabular Q-values, while the Policy Gradient approach utilizes a neural network to learn a policy.
+This project compares solutions to the Traveling Salesman Problem (TSP) using both Q-Learning and a Policy Gradient approach with a neural network. The Q-Learning algorithm is based on tabular Q-values, while the Policy Gradient approach utilizes a neural network to learn a policy.
 
 ## Table of Contents
 
