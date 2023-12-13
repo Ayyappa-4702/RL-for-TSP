@@ -38,11 +38,9 @@ This project implements solutions to the Traveling Salesman Problem (TSP) using 
 
 Run the file by  using the folllowing command
 
-```
-python QL_PG.py
-```
+  
 
-### play-around
+###play-around
 
 Change the parameters in the script (num_cities, num_episodes, epsilon, alpha, gamma) and observe the graph.
 
