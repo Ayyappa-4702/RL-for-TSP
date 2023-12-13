@@ -38,7 +38,8 @@ This project implements solutions to the Traveling Salesman Problem (TSP) using 
 
 Run the file by  using the folllowing command
 
-  
+    ```bash
+    python QL_PG.py
 
   ### play-around
 
