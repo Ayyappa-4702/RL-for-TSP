@@ -12,7 +12,7 @@ This project implements solutions to the Traveling Salesman Problem (TSP) using 
    - [Installation](#installation)
 - [Usage](#usage)
    - [play-around](#play-around)
-      -[Q-Learning Parameters](#Q-Learning-Parameters)
+      - [Q-Learning Parameters](#Q-Learning-Parameters)
       -[Policy Gradient Parameters](#Policy-Gradient-Parameters)
 - [Results](#results)
 
