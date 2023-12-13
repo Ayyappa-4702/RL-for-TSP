@@ -40,19 +40,19 @@ Run the file by  using the folllowing command
 
   
 
-### play-around
+  ### play-around
 
-Change the parameters in the script (num_cities, num_episodes, epsilon, alpha, gamma) and observe the graph.
+      Change the parameters in the script (num_cities, num_episodes, epsilon, alpha, gamma) and observe the graph.
 
-#### Q-Learning Parameters
+  #### Q-Learning Parameters
 
-num_cities, num_episodes, epsilon, alpha, gamma 
+      num_cities, num_episodes, epsilon, alpha, gamma 
 
-#### Policay Gradient Parameters
+  #### Policay Gradient Parameters
 
-num_cities, input_size, hidden_size, output_size, learning_rate, num_episodes
+    num_cities, input_size, hidden_size, output_size, learning_rate, num_episodes
 
-##Results
+## Results
 
 View the results of the Q-Learning algorithm in the first plot of the losses over episodes. The second plot displays the training loss over episodes for the Policy Gradient approach.
 
