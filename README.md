@@ -28,11 +28,11 @@ This project implements solutions to the Traveling Salesman Problem (TSP) using 
 
 ### Installation
 
-1. Clone the repository:
+ Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/traveling-salesman.git
-   cd traveling-salesman
+     ```bash
+     git clone https://github.com/your-username/traveling-salesman.git
+     cd traveling-salesman
 
 ## Usage
 
@@ -47,15 +47,13 @@ Run the file by  using the folllowing command
 
   #### Q-Learning Parameters
 
-      num_cities, num_episodes, epsilon, alpha, gamma 
+    num_cities, num_episodes, epsilon, alpha, gamma 
 
   #### Policay Gradient Parameters
 
     num_cities, input_size, hidden_size, output_size, learning_rate, num_episodes
 
 ## Results
-
-View the results of the Q-Learning algorithm in the first plot of the losses over episodes. The second plot displays the training loss over episodes for the Policy Gradient approach.
 
 View the results for loss over episdoes for Q-Learning and Policy Gradient Respectively.
 
